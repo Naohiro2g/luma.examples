@@ -121,7 +121,7 @@ def main(font_height, v_space):
     # update the viewport one position below, causing a refresh,
     # giving a rolling up scroll effect when done repeatedly
     print("font height:", font_height, "pixels", "\nvirtical spacing: ", v_space, "pixels")
-    print("scrolling", lines, "lines in", 40 + lines * v_space, "pixels in virtical direction...\n")
+    print("scrolling", lines, "lines in", 40 + lines * v_space, "pixels in vertical direction...\n")
     for y in range(40 + lines * v_space):
         virtual.set_position((0, y))
         time.sleep(0.08)
