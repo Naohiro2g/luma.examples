@@ -1,35 +1,35 @@
 ===============================================================================
 
-                              ����t�H���g TTF ��
+                              美咲フォント TTF 版
 
 ===============================================================================
 
-�@����t�H���g TTF �ł� TrueType �`���̃t�H���g�ł��B
+　美咲フォント TTF 版は TrueType 形式のフォントです。
 
 
-���A�[�J�C�u�̓��e
-��misaki.txt
-�@����t�H���g�̃}�j���A��
+●アーカイブの内容
+＊misaki.txt
+　美咲フォントのマニュアル
 
-��readme.txt
-�@����t�H���g TTF �ł̃}�j���A�� (���̃t�@�C��)
+＊readme.txt
+　美咲フォント TTF 版のマニュアル (このファイル)
 
-��misaki_gothic.ttf
-�@����S�V�b�N (�A�E�g���C��)
+＊misaki_gothic.ttf
+　美咲ゴシック (アウトライン)
 
-��misaki_mincho.ttf
-�@���疾�� (�A�E�g���C��)
-
-
-�����l
-�������̓s���ɂ��A�����݃r�b�g�}�b�v�ł̓��������~�߂Ă��܂��B
-�@2012-06-03 �ȑO�̔łɂ͊܂܂��̂ŁA�K�v�ȕ��͂�����������p���������B
+＊misaki_mincho.ttf
+　美咲明朝 (アウトライン)
 
 
-�����C�Z���X
-�@�A�[�J�C�u�����́umisaki.txt�v�̓��e�ɏ]�����̂Ƃ��܂��B
+●備考
+＊制作上の都合により、埋込みビットマップ版の同梱を取り止めています。
+　2012-06-03 以前の版には含まれるので、必要な方はそちらをご利用ください。
 
 
-���ӎ�
-�@TTF �ō쐬�ɂ� George Williams �����̃t�H���g�G�f�B�^ FontForge ��
-�@�g�p���܂����B���̏���؂�Ă���\���グ�܂��B
+●ライセンス
+　アーカイブ同梱の「misaki.txt」の内容に従うものとします。
+
+
+●謝辞
+　TTF 版作成には George Williams さん作のフォントエディタ FontForge を
+　使用しました。この場を借りてお礼申し上げます。
