@@ -1,3 +1,10 @@
+SSD1306 OLED 128x64 を使うとき、以下のコマンドラインで動くが、pythonだとデバイス種類がMAX7219となってしまう。そして、SSD1306を指定できない。
+
+```
+python3  examples/crawl-misaki.py 
+```
+
+
 `luma.core <https://github.com/rm-hull/luma.core>`__ **|**
 `luma.docs <https://github.com/rm-hull/luma.docs>`__ **|**
 luma.examples **|**
